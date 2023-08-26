@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping-puppeteer",
+  "version": "1.0.0",
+  "description": "overview del modulo puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "nodejs"
+  ],
+  "author": "Rjchi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.1.0"
+  }
+}
